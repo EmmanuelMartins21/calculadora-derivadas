@@ -2,6 +2,9 @@
 
 Uma calculadora simples em C# para calcular a derivada de funções quadráticas.
 
+![image](https://github.com/EmmanuelMartins21/calculadora-derivadas/assets/72640449/bd8bc748-faef-4426-9443-f2d23488b4cb)
+
+
 ## Como usar
 
 1. **Clone o repositório:**
