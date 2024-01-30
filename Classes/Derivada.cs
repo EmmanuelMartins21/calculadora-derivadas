@@ -20,10 +20,10 @@ namespace calculadora_derivadas.Classes
                 {
                     for (int i = 1; i <= qtdvariaveis; i++)
                     {
-                        Console.WriteLine($"Qual o valor da vareavel {i}?");
+                        Console.WriteLine($"Qual o valor da variavel {i}?");
                         var vlr = Console.ReadLine();
 
-                        Console.WriteLine($"Qual o valor do expoente da vareavel {i}?");
+                        Console.WriteLine($"Qual o valor do expoente da variavel {i}?");
                         var vlrExpoente = Console.ReadLine();
 
                         function += $"{vlr}x^{vlrExpoente} ";
